@@ -1,3 +1,1 @@
-# stranger463.github.io
-my test projects
-It's my sumary.
+ this is my first summary on github
